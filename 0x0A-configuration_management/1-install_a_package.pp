@@ -8,5 +8,5 @@ package {'flask':
 
 package {'werkzeug':
  ensure => '2.1.1',
- provide => 'pip3',
+ provider => 'pip3',
 }
