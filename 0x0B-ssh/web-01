@@ -2,5 +2,7 @@
 # Accessing my sever
 
 eval $("ssh-agent")
+
 ssh-add ~/.ssh/school
-ssh ubuntu@54.90.48.196
+
+ssh ubuntu@100.26.57.79
